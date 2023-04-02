@@ -1,0 +1,83 @@
+/* FORM COMPONENT */
+input {
+    border: #d6d6d6 1px solid;
+    outline: none;
+    border-radius: 4px;
+    padding: 6px;
+    cursor: auto;
+}
+
+textarea {
+    border: #d6d6d6 1px solid;
+    outline: none;
+    border-radius: 4px;
+    padding: 6px;
+    cursor: auto;
+}
+
+form button {
+    background: #fff;
+    border: #d6d6d6 1px solid;
+    border-radius: 4px;
+    padding: 5px 10px;
+}
+
+/* TABLE */
+table {
+    padding: 0;
+    background: #fff;
+    border-collapse: collapse;
+    line-height: 2.5rem;
+    /* border: #d6d6d6 1px solid; */
+    color: black;
+}
+
+/* TABLE - Normal Table */
+table.normal-table {
+    padding: 0;
+    background: #fff;
+    border-collapse: collapse;
+    line-height: 2.5rem;
+    /* border: #d6d6d6 1px solid; */
+    color: black;
+}
+
+table.striped tr:nth-child(even) {
+    background: #d6d6d6;
+}
+
+th {
+    border-bottom: 1px #d6d6d6 solid;
+    padding-left: 10px;
+    padding-right: 10px; 
+    font-weight: 600;
+    font-size: 16px;
+}
+
+tr {
+    border-bottom: 1px #d6d6d6 solid;
+}
+
+td {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* tr:nth-child(even) {
+    background: #d6d6d6;
+} */
+
+/* LIST */
+ul {
+    list-style: none;
+    color: black;
+}
+li, a {
+    text-decoration: none;
+    color: black;
+}
+
+#alert, .alert {
+    padding: 10px 30px;
+    margin-bottom: 40px;
+}
