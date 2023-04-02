@@ -12,7 +12,7 @@
                         <a href="https://twitter.com/webbyphp" target="_blank"><i class="fa fa-twitter big-font ml-2 py-1" aria-hidden="true"></i></a>
                     </div>
                 </div>
-                <div class="nav-mobile-toggle ml-auto flex">
+                <div class="nav-mobile-toggle ml-auto flex cursor-pointer">
                     <i class="fa fa-bars big-font"></i>
                 </div>
             </div>
