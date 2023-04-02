@@ -1,3 +1,7 @@
-### Welcome to BaseContacts
+### Welcome to BaseNotes
 
-A an example project using BaseCss and Webby
+An example project using BaseCss and Webby 
+
+Built with [webby](https://github.com/sylynder/webby)
+
+By [@otengkwame](https://www.github.com/otengkwame)
