@@ -1032,3 +1032,7 @@ h1.hero {
 .box-shadow-lg {
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
+
+.cursor-pointer {
+    cursor: pointer;
+}

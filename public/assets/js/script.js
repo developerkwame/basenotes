@@ -2,7 +2,6 @@
 const alertBtn = document.getElementById('alert-btn');
 const btt = document.getElementsByClassName('btt');
 const alertBox =  document.querySelector('.alert');
-alertBtn.addEventListener('click', alertTrigger);
 
 function alertTrigger(){
     alertBox.classList.remove('hide');
@@ -26,5 +25,3 @@ closeMobileNav.onclick = function closeMoblie(){
         mobileNav.style.display = 'none';
     }
 }
-
-
